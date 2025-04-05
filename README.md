@@ -1,3 +1,5 @@
+https://github.com/laravel98developer/laravel-hiring-projects/tree/master/Projects/7learn/P1
+
 برای موجودیت پست، دسته و تگ مدل و مایگریشن هایی ایجاد کن با شرایط زیر
 
 هر تگ یک دسته دارد
@@ -21,4 +23,6 @@
 
 
 php artisan migrate
+
+
 php artisan queue:work
